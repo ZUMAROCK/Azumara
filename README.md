@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZUMAROCK, a product management enthusiast
 - 👀 I’m interested in Product Management and Backend programming
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Technicalities around product management with a fusion on Backend projects (PHP)
+- 💞️ I’m looking to collaborate on Technicalities around product management with a fusion of Backend projects (PHP)
 - 📫 How to reach me - azumaradaniel@gmail.com
 
 <!---
