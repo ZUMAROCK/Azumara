@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ZUMAROCK, a product management enthusiast
-- 👀 I’m interested in Product Management and Backend programming
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on Technicalities around product management with a fusion of Backend projects (PHP)
+- 👋 Hi, I’m Azumara Daniel, a technology management professional
+- 👀 I’m interested in Product Management and Data Analytics
+- 🌱 I’m currently learning R programming
+- 💞️ I’m looking to collaborate on projects around product management and data analysis
 - 📫 How to reach me - azumaradaniel@gmail.com
 
 <!---
